@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 Here you will be able to find the projects and activities that I've been working on, and those that will come soon!  
 Hope you find something of your liking 😄
 
+Amongst the technologies I'll be using you may me able to find Python, PHP (Laravel), JavaScript (Vue, React, Angular), HTML5, CSS3
