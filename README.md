@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##🌱 I’m currently studying at IES Francisco Ayala, in my last year of Web Application Development  
+## 🌱 I’m currently studying at IES Francisco Ayala, in my last year of Web Application Development  
 
 Here you will be able to find the projects and activities that I've been working on, and those that will come soon!  
 Hope you find something of your liking 😄
