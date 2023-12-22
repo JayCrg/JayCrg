@@ -2,9 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Spanish Web Developer eager to learn new tools and grown in knowledge
+Web Developer eager to learn new tools and grow in knowledge
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+Amonst the technologies I've used you may find:
 
 <table>
   <tr>
