@@ -5,7 +5,7 @@
 Web Developer eager to learn new tools and grow in knowledge
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-Amonst the technologies I've used you may find:
+Amongst the technologies I've used you may find:
 
 <table>
   <tr>
